@@ -1,0 +1,214 @@
+// --------------- PD SKINS ---------------
+AddCharModel(71, 20001, "20001.dff", "20001.txd");
+AddCharModel(265, 20002, "20002.dff", "20002.txd");
+AddCharModel(285, 20003, "20003.dff", "20003.txd");
+AddCharModel(281, 20004, "20004.dff", "20004.txd");
+AddCharModel(266, 20005, "20005.dff", "20005.txd");
+AddCharModel(284, 20006, "20006.dff", "20006.txd");
+AddCharModel(280, 20007, "20007.dff", "20007.txd");
+AddCharModel(267, 20008, "20008.dff", "20008.txd");
+AddCharModel(191, 20009, "20009.dff", "20009.txd");
+AddCharModel(286, 20010, "20010.dff", "20010.txd");
+AddCharModel(265, 20011, "20011.dff", "20011.txd");
+AddCharModel(285, 20012, "20012.dff", "20012.txd");
+AddCharModel(281, 20013, "20013.dff", "20013.txd");
+AddCharModel(266, 20014, "20014.dff", "20014.txd");
+AddCharModel(280, 20015, "20015.dff", "20015.txd");
+AddCharModel(265, 20016, "20016.dff", "20016.txd");
+AddCharModel(281, 20017, "20017.dff", "20017.txd");
+AddCharModel(266, 20018, "20018.dff", "20018.txd");
+AddCharModel(280, 20019, "20019.dff", "20019.txd");
+AddCharModel(267, 20020, "20020.dff", "20020.txd");
+AddCharModel(306, 20037, "20037.dff", "20037.txd");
+// ----------------- FD SKINS ----------------- 
+AddCharModel(211, 20021, "20021.dff", "20021.txd");
+AddCharModel(279, 20022, "20022.dff", "20022.txd");
+AddCharModel(276, 20023, "20023.dff", "20023.txd");
+AddCharModel(278, 20024, "20024.dff", "20024.txd");
+AddCharModel(275, 20025, "20025.dff", "20025.txd");
+AddCharModel(277, 20026, "20026.dff", "20026.txd");
+AddCharModel(274, 20027, "20027.dff", "20027.txd");
+AddCharModel(191, 20028, "20028.dff", "20028.txd");
+// ----------------- EMS SKINS ------------------
+AddCharModel(276, 20029, "sfemt1.dff", "sfemt1.txd");
+AddCharModel(276, 20030, "20030.dff", "20030.txd");
+AddCharModel(274, 20031, "20031.dff", "20031.txd");
+AddCharModel(275, 20032, "20032.dff", "20032.txd");
+AddCharModel(275, 20033, "20033.dff", "20033.txd");
+AddCharModel(308, 20034, "wfyclem.dff", "wfyclem.txd");
+AddCharModel(274, 20035, "laemt1.dff", "laemt1.txd");
+AddCharModel(308, 20036, "20036.dff", "20036.txd");
+// ---------------- CIVILIAN SKINS ---------------
+AddCharModel(289, 20038, "20038.dff", "20038.txd");
+AddCharModel(101, 20039, "20039.dff", "20039.txd");
+AddCharModel(93, 20040, "20040.dff", "20040.txd");
+AddCharModel(91, 20041, "20041.dff", "20041.txd");
+AddCharModel(150, 20042, "20042.dff", "20042.txd");
+AddCharModel(172, 20043, "20043.dff", "20043.txd");
+AddCharModel(127, 20044, "20044.dff", "20044.txd");
+AddCharModel(126, 20045, "20045.dff", "20045.txd");
+AddCharModel(120, 20046, "20046.dff", "20046.txd");
+AddCharModel(240, 20047, "20047.dff", "20047.txd");
+AddCharModel(193, 20048, "20048.dff", "20048.txd");
+AddCharModel(2, 20049, "20049.dff", "20049.txd");
+AddCharModel(108, 20050, "20050.dff", "20050.txd");
+AddCharModel(42, 20051, "20051.dff", "20051.txd");
+AddCharModel(123, 20052, "20052.dff", "20052.txd");
+AddCharModel(121, 20053, "20053.dff", "20053.txd");
+AddCharModel(190, 20054, "20054.dff", "20054.txd");
+AddCharModel(292, 20055, "20055.dff", "20055.txd");
+AddCharModel(22, 20056, "20056.dff", "20056.txd");
+AddCharModel(20, 20057, "20057.dff", "20057.txd");
+AddCharModel(67, 20058, "20058.dff", "20058.txd");
+AddCharModel(66, 20059, "20059.dff", "20059.txd");
+AddCharModel(19, 20060, "20060.dff", "20060.txd");
+AddCharModel(21, 20061, "20061.dff", "20061.txd");
+AddCharModel(139, 20062, "20062.dff", "20062.txd");
+AddCharModel(104, 20063, "20063.dff", "20063.txd");
+AddCharModel(103, 20064, "20064.dff", "20064.txd");
+AddCharModel(102, 20065, "20065.dff", "20065.txd");
+AddCharModel(127, 20066, "20066.dff", "20066.txd");
+AddCharModel(120, 20067, "20067.dff", "20067.txd");
+//------------------------ ILLEGAL PRIVATE SALLIVIEN ---------------------
+AddCharModel(46, 20068, "20068.dff", "20068.txd");
+AddCharModel(304, 20069, "20069.dff", "20069.txd");
+AddSimpleModel(-1, 19519, -1025, "PlateCarrier.dff", "PlateCarrier.txd");
+//------------------------ ILLEGAL PRIVATE SNAJP (BS14) ---------------------
+AddCharModel(48, 20070, "20070.dff", "20070.txd");
+AddCharModel(108, 20071, "20071.dff", "20071.txd");
+AddCharModel(109, 20072, "20072.dff", "20072.txd");
+AddCharModel(110, 20073, "20073.dff", "20073.txd");
+AddCharModel(174, 20074, "20074.dff", "20074.txd");
+AddCharModel(175, 20075, "20075.dff", "20075.txd");
+AddCharModel(108, 20076, "20076.dff", "20076.txd");
+AddCharModel(109, 20077, "20077.dff", "20077.txd");
+//------------------------ LEGAL UNDERGROUND CLUB ---------------------
+AddCharModel(124, 20078, "20078.dff", "20078.txd");
+AddCharModel(125, 20079, "20079.dff", "20079.txd");
+//------------------------ DEJVISAK ---------------------
+AddCharModel(185, 20080, "sbmyri.dff", "sbmyri.txd");
+//Salivien
+//-------------------------------------------------------
+AddCharModel(211, 20081, "wfyst.dff", "wfyst.txd");
+//PD NEW SKINY
+AddCharModel(45, 20082, "20082.dff", "20082.txd");
+AddCharModel(171, 20083, "20083.dff", "20083.txd");
+AddCharModel(311, 20084, "20084.dff", "20084.txd");
+AddCharModel(281, 20085, "20085.dff", "20085.txd");
+AddCharModel(280, 20086, "20086.dff", "20086.txd");
+AddCharModel(26, 20087, "20087.dff", "20087.txd");
+//------------------SFSD---------------------------
+AddCharModel(309, 20088, "20088.dff", "20088.txd"); //Corrections
+AddCharModel(309, 20089, "20089.dff", "20089.txd"); //Corrections
+AddCharModel(310, 20090, "20090.dff", "20090.txd"); //Corrections
+AddCharModel(310, 20091, "20091.dff", "20091.txd"); //Corrections
+AddCharModel(309, 20092, "20092.dff", "20092.txd"); //Jacket
+AddCharModel(310, 20093, "20093.dff", "20093.txd"); //Jacket
+AddCharModel(310, 20094, "20094.dff", "20094.txd"); //Jacket
+AddCharModel(310, 20095, "20095.dff", "20095.txd"); //Jacket
+AddCharModel(310, 20096, "20096.dff", "20096.txd"); //Jacket
+AddCharModel(310, 20097, "20097.dff", "20097.txd"); //long
+AddCharModel(310, 20098, "20098.dff", "20098.txd"); //long
+AddCharModel(310, 20099, "20099.dff", "20099.txd"); //long
+AddCharModel(310, 20100, "20100.dff", "20100.txd"); //long
+AddCharModel(310, 20101, "20101.dff", "20101.txd"); //long
+AddCharModel(310, 20102, "20102.dff", "20102.txd"); //patrol
+AddCharModel(309, 20103, "20103.dff", "20103.txd"); //patrol
+AddCharModel(310, 20104, "20104.dff", "20104.txd"); //patrol
+AddCharModel(310, 20105, "20105.dff", "20105.txd"); //patrol
+AddCharModel(310, 20106, "20106.dff", "20106.txd"); //patrol
+AddCharModel(310, 20107, "20107.dff", "20107.txd"); //patrol
+AddCharModel(310, 20108, "20108.dff", "20108.txd"); //patrol
+AddCharModel(310, 20109, "20109.dff", "20109.txd"); //patrol
+AddCharModel(310, 20110, "20110.dff", "20110.txd"); //riot
+AddCharModel(310, 20111, "20111.dff", "20111.txd"); //riot
+AddCharModel(310, 20112, "20112.dff", "20112.txd"); //riot
+
+AddCharModel(60, 20113, "20113.dff", "20113.txd"); //Militia
+AddCharModel(250, 20114, "20114.dff", "20114.txd"); //Militia
+AddCharModel(179, 20115, "20115.dff", "20115.txd"); //Militia
+AddCharModel(72, 20116, "20116.dff", "20116.txd"); //Militia
+
+AddCharModel(242, 20117, "20117.dff", "20117.txd"); //Motorkari
+AddCharModel(273, 20118, "20118.dff", "20118.txd"); //Motorkari
+AddCharModel(181, 20119, "20119.dff", "20119.txd"); //Motorkari
+AddCharModel(179, 20120, "20120.dff", "20120.txd"); //Motorkari
+AddCharModel(100, 20121, "20121.dff", "20121.txd"); //Motorkari
+// ----------------- MEDIC BAGS -------------------
+AddSimpleModel(-1, 3026, -1001, "-1001.dff", "-1001.txd");
+AddSimpleModel(-1, 11738, -1002, "-1002.dff", "-1002.txd");
+// -------------------- DROGY ---------------------
+AddSimpleModel(-1, 2473, -1003, "crack.dff", "crack.txd");
+AddSimpleModel(-1, 2473, -1004, "ectasy.dff", "ectasy.txd");
+AddSimpleModel(-1, 19300, -1005, "kokain.dff", "kokain.txd");
+AddSimpleModel(-1, 1546, -1006, "lean.dff", "lean.txd");
+AddSimpleModel(-1, 19792, -1007, "LSD.dff", "LSD.txd");
+AddSimpleModel(-1, 19300, -1008, "meth.dff", "meth.txd");
+AddSimpleModel(-1, 2473, -1009, "pcp.dff", "pcp.txd");
+AddSimpleModel(-1, 2485, -1010, "weed.dff", "weed.txd");
+AddSimpleModel(-1, 2473, -1011, "xanax.dff", "xanax.txd");
+AddSimpleModel(-1, 1241, -1012, "xanax_nahlad.dff", "xanax_nahlad.txd");
+AddSimpleModel(-1, 1937, -1013, "ectasy_nahlad.dff", "ectasy_nahlad.txd");
+AddSimpleModel(-1, 19300, -1014, "mseed.dff", "mseed.txd");
+// ------------------------- ELM ----------------------
+AddSimpleModel(-1, 19300, -1015, "elm_lspd.dff", "MatLights.txd");
+AddSimpleModel(-1, 19300, -1016, "elm_firela.dff", "MatLights.txd");
+AddSimpleModel(-1, 19300, -1017, "elm_ambulance.dff", "MatLights.txd");
+AddSimpleModel(-1, 19300, -1018, "elm_bullet.dff", "MatLights.txd");
+AddSimpleModel(-1, 19300, -1019, "elm_copbike.dff", "MatLights.txd");
+AddSimpleModel(-1, 19300, -1020, "elm_fbirancher.dff", "MatLights.txd");
+AddSimpleModel(-1, 19300, -1021, "elm_cheetah.dff", "MatLights.txd");
+AddSimpleModel(-1, 19300, -1022, "elm_ranger.dff", "MatLights.txd");
+AddSimpleModel(-1, 19300, -1023, "elm_sultan.dff", "MatLights.txd");
+AddSimpleModel(-1, 19300, -1024, "elm_firetruck.dff", "MatLights.txd");
+// ------------------------- SFPD MODELS -------------------------
+AddSimpleModel(-1, 19142, -1026, "SIU.dff", "SIU.txd");
+AddSimpleModel(-1, 19142, -1027, "POLICE.dff", "POLICE.txd");
+AddSimpleModel(-1, 19142, -1028, "NEU.dff", "NEU.txd");
+AddSimpleModel(-1, 19783, -1029, lieutenant.dff, lieutenant.txd);
+AddSimpleModel(-1, 19783, -1030, captain.dff, captain.txd);
+AddSimpleModel(-1, 19783, -1031, commander.dff, commander.txd);
+AddSimpleModel(-1, 19783, -1032, deputychief.dff, deputychief.txd);
+AddSimpleModel(-1, 19783, -1033, asschief.dff, asschief.txd);
+AddSimpleModel(-1, 19783, -1034, chief.dff, chief.txd);
+// ---------------------------- MOBIL -----------------------------
+AddSimpleModel(-1, 19300, -1035, "sfOS.dff", "sfOS.txd");
+AddSimpleModel(-1, 19300, -1036, "black.dff", "black.txd");
+AddSimpleModel(-1, 19300, -1037, "gold.dff", "gold.txd");
+AddSimpleModel(-1, 19300, -1038, "red.dff", "red.txd");
+AddSimpleModel(-1, 19300, -1039, "rosegold.dff", "rosegold.txd");
+AddSimpleModel(-1, 19300, -1040, "silver.dff", "silver.txd");
+AddSimpleModel(-1, 19300, -1041, "white.dff", "white.txd");
+//IDK
+AddSimpleModel(-1, 10052, -1042, SFSD.dff, SFSD.txd);
+//IDK
+AddSimpleModel(-1,19379, -2000, "SFBELM.dff", "SFBELM.txd");
+AddSimpleModel(-1,19294, -2001, "elm_bullet.dff", "MatLights.txd");
+AddSimpleModel(-1,19294, -2002, "elm_copbike.dff", "MatLights.txd");
+AddSimpleModel(-1,19294, -2003, "elm_fbirancher.dff", "MatLights.txd");
+AddSimpleModel(-1,19294, -2004, "elm_firela.dff", "MatLights.txd");
+AddSimpleModel(-1,19294, -2005, "elm_cheetah.dff", "MatLights.txd");
+AddSimpleModel(-1,19294, -2006, "elm_lspd.dff", "MatLights.txd"); #j
+AddSimpleModel(-1,19294, -2007, "elm_ranger.dff", "MatLights.txd"); #j
+AddSimpleModel(-1,19294, -2008, "elm_sultan.dff", "MatLights.txd"); #j
+AddSimpleModel(-1,19294, -2009, "elm_firetruck.dff", "MatLights.txd");
+AddSimpleModel(-1,19294, -2010, "elm_ambulance.dff", "MatLights.txd");
+AddSimpleModel(-1,19294, -2011, "elm_trafbarL.dff", "MatLights.txd");
+AddSimpleModel(-1,19294, -2012, "elm_trafbarM.dff", "MatLights.txd");
+AddSimpleModel(-1,19294, -2013, "elm_trafbarR.dff", "MatLights.txd");
+AddSimpleModel(-1,19294, -2014, "majacik.dff", "MatLights.txd");
+AddSimpleModel(-1,19294, -2015, "elm_trafbarM_rang.dff", "MatLights.txd");
+AddSimpleModel(-1,19294, -2016, "elm_spotlight.dff", "MatLights.txd");
+AddSimpleModel(-1,19294, -2017, "elm_trafbar_huntley.dff", "MatLights.txd");
+
+AddSimpleModel( -1, 2000, -2018, "trailer.dff", "trailer.txd");
+AddSimpleModel( -1, 2000, -2019, "t_steps.dff", "trailer.txd");
+AddSimpleModel( -1, 2000, -2020, "t_doors.dff", "trailer.txd");
+AddSimpleModel( -1, 2000, -2021, "t_win.dff", "trailer.txd");
+AddSimpleModel( -1, 2000, -2022, "t_win1.dff", "trailer.txd");
+AddSimpleModel( -1, 2000, -2023, "t_win2.dff", "trailer.txd");
+AddSimpleModel( -1, 2000, -2024, "t_winlid.dff", "trailer.txd");
+
+AddSimpleModel( -1, 19142, -2025, "SDvest.dff", "SDvest.txd");
+AddSimpleModel( -1, 19141, -2026, "MilitiaHelm.dff", "MilitiaHelm.txd");
+AddSimpleModel( -1, 19142, -2027, "MilitiaVest.dff", "MilitiaVest.txd");
